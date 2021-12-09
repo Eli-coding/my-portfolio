@@ -1,1 +1,17 @@
 
+*{
+    background-color:rgb(238, 135, 152);
+}
+
+#name{
+    
+    font-family:monospace;
+    justify-content: left;
+    color:white;
+    font-size: 30pt;
+}
+
+#photoMe {
+
+    justify-content: flex-end;
+}
