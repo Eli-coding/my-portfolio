@@ -2,16 +2,17 @@
 #name{
     
     font-family:monospace;
-    justify-content: left;
+    justify-content: center;
     color:rgb(245, 72, 124);
     font-size: 30pt;
 
 }
 
 
-#photoMe {
+#photoMe img {
 
-    float:inline-end;
+    position:relative;
+    justify-content: space-between;
     
 }
 
@@ -24,21 +25,72 @@
     
 }
 
-
-.roomPlanner img  {
-
- 
-
+#aboutme {
+    
+    font-size: 20pt;
+    
 }
+  /*flex box photos (containers) and tittles
+  add comments 
+  make decent read me 
+  */
+
+
+#mywork{
+
+    font-size: 20pt;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+} 
 
 #contactMe {
 
     display: inline-block;
-    font-size: 20px;
-    padding: 20px
+    font-size: 20pt;
+    padding: 20px;
+    background-color: rgb(69, 117, 248);
 }
 
 
-@media screen and (min-width: 768px){
+
+
+@media screen and (max-width: 992px)
+{
+
+    #aboutme {
+        background-color: rgb(144, 248, 175);
+    }
+
+    #mywork{
+
+        background-color: rgb(80, 163, 230); 
+    
+    }
+    
+    #contactme {
+        background-color: rgb(236, 24, 165);
+    }
+    
+}
+
+
+@media screen and (min-width: 768px)
+{
+
+    #aboutme {
+        background-color: rgb(79, 230, 179);
+    }
+
+    #mywork{
+
+        background-color: rgb(32, 145, 238); 
+    
+    }
+    
+    #contactme {
+        background-color: rgb(236, 161, 211);
+    }
     
 }
