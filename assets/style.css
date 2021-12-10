@@ -1,17 +1,44 @@
 
-*{
-    background-color:rgb(238, 135, 152);
-}
-
 #name{
     
     font-family:monospace;
     justify-content: left;
-    color:white;
+    color:rgb(245, 72, 124);
     font-size: 30pt;
+
 }
+
 
 #photoMe {
 
-    justify-content: flex-end;
+    float:inline-end;
+    
+}
+
+.menu a{
+
+    display: inline-flexbox;
+    padding: 10px;
+    background-color:rgb(245, 72, 124);
+    text-align: center;
+    
+}
+
+
+.roomPlanner img  {
+
+ 
+
+}
+
+#contactMe {
+
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px
+}
+
+
+@media screen and (min-width: 768px){
+    
 }
