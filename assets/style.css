@@ -1,4 +1,7 @@
 
+
+
+
 #name{
     
     font-family:monospace;
@@ -12,12 +15,12 @@
 #photoMe img {
 
     position:relative;
-    justify-content: space-between;
+    
     
 }
 
 .menu a{
-
+    font-family:monospace;
     display: inline-flexbox;
     padding: 10px;
     background-color:rgb(245, 72, 124);
@@ -28,6 +31,8 @@
 #aboutme {
     
     font-size: 20pt;
+    font-family:monospace;
+    color:rgb(0, 0, 34)
     
 }
   /*flex box photos (containers) and tittles
@@ -37,20 +42,41 @@
 
 
 #mywork{
-
+    font-family:monospace;
     font-size: 20pt;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    position: relative;
+    
+  
 
 } 
+
+
+
+
 
 #contactMe {
 
     display: inline-block;
     font-size: 20pt;
     padding: 20px;
-    background-color: rgb(69, 117, 248);
+    
+   
+}
+
+#contactme h2{
+    font-size: 20pt;
+    font-family:monospace;
+
+}
+
+#contactme ul {
+    font-family:monospace;
+    list-style-type:square;
+    font-size: 20pt;
+    color: white;
 }
 
 
@@ -60,12 +86,12 @@
 {
 
     #aboutme {
-        background-color: rgb(144, 248, 175);
+        background-color: rgb(97, 191, 245);
     }
 
     #mywork{
 
-        background-color: rgb(80, 163, 230); 
+        background-color: rgb(199, 126, 248); 
     
     }
     
@@ -90,7 +116,7 @@
     }
     
     #contactme {
-        background-color: rgb(236, 161, 211);
+        background-color: rgb(133, 131, 238);
     }
     
 }
