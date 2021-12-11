@@ -10,11 +10,9 @@
 }
 
 /*avatar photo of me*/
-#photoMe img {
-
-    position:relative;
-    
-    
+#photoMe {
+ display: flex;
+ justify-content: center;  
 }
 
 /*navigation to sections*/
@@ -78,8 +76,9 @@
 }
 
 /*media queries*/
-@media screen and (max-width: 992px)
+@media screen and (min-width: 992px)
 {
+
 
     #aboutme {
         background-color: rgb(97, 191, 245);
@@ -99,8 +98,9 @@
 
 
 /*media queries*/
-@media screen and (min-width: 768px)
+@media screen and (max-width: 768px)
 {
+
 
     #aboutme {
         background-color: rgb(79, 230, 179);
@@ -114,6 +114,10 @@
     
     #contactme {
         background-color: rgb(133, 131, 238);
+    }
+
+    #mywork {
+        flex-direction: column;
     }
     
 }
