@@ -27,7 +27,6 @@
     font-size: 20pt;
     font-family:monospace;
     color: rgb(0, 0, 0);
-    font-weight: bolder;
     font-family:'Hahmlet', serif;
     padding: 40px;
     
@@ -36,7 +35,6 @@
 
 #mywork{
     font-family:'Hahmlet', serif;
-    font-weight: bolder;
     font-size: 20pt;
     color: black;
     display: flex;
@@ -60,7 +58,6 @@
 #contactme h2{
     font-size: 20pt;
     font-family:'Hahmlet', serif;
-    font-weight: bolder;
     text-align: left;
     color: black;
 
