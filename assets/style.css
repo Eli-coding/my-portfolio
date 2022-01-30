@@ -17,7 +17,7 @@
 
 .container-fluid{
 
-    background-color: #4198bb;
+
     color: whitesmoke;
 }
 
@@ -27,6 +27,7 @@
     font-size: 20pt;
     font-family:monospace;
     color: rgb(0, 0, 0);
+    font-family:'Hahmlet', serif;
     
 }
   
@@ -50,26 +51,18 @@
     font-size: 20pt;
     padding: 30px;
     padding-top: 30px;
-    
-
-    
    
 }
 
 /*Header inside contact me section*/
 #contactme h2{
     font-size: 20pt;
-    font-family:monospace;
+    font-family:'Hahmlet', serif;
+    font-weight: bolder;
 
 }
 
 /*unordered list inside contact me section*/
-#contactme ul {
-    font-family:monospace;
-    list-style-type:square;
-    font-size: 20pt;
-    color: white;
-}
 
 #footer{
     text-align: center;
@@ -126,60 +119,3 @@ a{
     }
     
 }
-
-/* <section class="roomPlanner">
-                        <!--placement holder for future project-->
-                        <a
-                            href="https://www.buzzfeed.com/haviagouldingoq/design-your-dream-home-and-i-know-your-fav-color-cmhfv98cbc">
-                            <img src="https://designshack.net/wp-content/uploads/placehold.jpg" alt="Coming Soon"
-                                style="width:600px;height:300px; ">
-                        </a>
-                        <p>Room Planner</p>
-                    </section>
-
-                    <section class="pomodoro">
-                        <!--placement holder for future project-->
-                        <a
-                            href="https://www.buzzfeed.com/haviagouldingoq/design-your-dream-home-and-i-know-your-fav-color-cmhfv98cbc">
-                            <img src="https://designshack.net/wp-content/uploads/placehold.jpg" alt="Coming Soon"
-                                style="width:400px;height:250px; ">
-                        </a>
-
-                        <p> Pomodoro timer</p>
-
-                    </section>
-
-                    <section class="currency">
-                        <!--placement holder for future project-->
-                        <a
-                            href="https://www.buzzfeed.com/haviagouldingoq/design-your-dream-home-and-i-know-your-fav-color-cmhfv98cbc">
-                            <img src="https://designshack.net/wp-content/uploads/placehold.jpg" alt="Coming Soon"
-                                style="width:400px;height:250px; ">
-                        </a>
-
-                        <p>Currency Converter</p>
-                    </section>
-
-                    <section class="cooking">
-                        <!--placement holder for future project-->
-                        <a
-                            href="https://www.buzzfeed.com/haviagouldingoq/design-your-dream-home-and-i-know-your-fav-color-cmhfv98cbc">
-                            <img src="https://designshack.net/wp-content/uploads/placehold.jpg" alt="Coming Soon"
-                                style="width:400px;height:250px; ">
-                        </a>
-
-                        <p>Cooking Recipes</p>
-
-                    </section>
-
-                    <section class="planner">
-                        <!--placement holder for future project-->
-                        <a
-                            href="https://www.buzzfeed.com/haviagouldingoq/design-your-dream-home-and-i-know-your-fav-color-cmhfv98cbc">
-                            <img src="https://designshack.net/wp-content/uploads/placehold.jpg" alt="Coming Soon"
-                                style="width:400px;height:250px; ">
-                        </a>
-
-                        <p>Digital planner</p>
-
-                    </section>*/
