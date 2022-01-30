@@ -28,18 +28,22 @@
     font-family:monospace;
     color: rgb(0, 0, 0);
     font-family:'Hahmlet', serif;
+    padding: 40px;
     
 }
   
 
 #mywork{
-    font-family:monospace;
+    font-family:'Hahmlet', serif;
+    font-weight: bolder;
     font-size: 20pt;
+    color: black;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    text-align: left;
     position: relative;
-    padding-bottom: 10px;
+    padding: 40px;
+
     
   
 
@@ -50,7 +54,7 @@
     display: inline-block;
     font-size: 20pt;
     padding: 30px;
-    padding-top: 30px;
+    padding: 40px;
    
 }
 
