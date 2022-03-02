@@ -1,4 +1,4 @@
-# my-portfolio
+# Portfolio
 
 This is online portfolio with three sections. The three sections are about, my works, and how to contact.
 The projects section contains 3 of my most recent projects. This website changes colors when the screen size increases or decreases. 
