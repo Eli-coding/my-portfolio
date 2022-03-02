@@ -1,10 +1,9 @@
 
-/*Hi , my name is */
 #name{
     
     font-family:'Hahmlet', serif;
     justify-content: center;
-    color: #7291f6;
+    color: #426bf5;
     font-size: 70pt;
 
 }
@@ -15,18 +14,13 @@
  justify-content: center;  
 }
 
-.container-fluid{
-
-
-    color: whitesmoke;
-}
 
 
 #aboutme {
     
     font-size: 20pt;
     font-family:monospace;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family:'Hahmlet', serif;
     padding: 40px;
     
@@ -36,7 +30,7 @@
 #mywork{
     font-family:'Hahmlet', serif;
     font-size: 20pt;
-    color: black;
+    color: rgb(255, 249, 249);
     display: flex;
     flex-wrap: wrap;
     text-align: left;
@@ -47,6 +41,8 @@
   
 
 } 
+
+h5{ color: black;}
 
 #contactme{
     
@@ -59,7 +55,7 @@
     font-size: 20pt;
     font-family:'Hahmlet', serif;
     text-align: left;
-    color: black;
+    color: rgb(255, 255, 255);
 
 }
 
@@ -71,7 +67,7 @@
 }
 
 a{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 /*media queries*/
