@@ -21,8 +21,7 @@ h1{
     
 /*avatar photo of me*/
 #photoMe {
- display: flex;
- justify-content: center;  
+ display: flex;  
  margin: 20px 20px;
  border-radius: 20px ;
 
@@ -112,17 +111,17 @@ a{
 
 
     #aboutme {
-        background-color: rgb(62, 206, 158);
+        background-color: #DD517F;
     }
 
     #mywork{
 
-        background-color: rgb(32, 145, 238); 
+        background-color: #E68E36; 
     
     }
     
     #contactme {
-        background-color: rgb(133, 131, 238);
+        background-color: #556DC8;
     }
 
     #mywork {
