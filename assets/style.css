@@ -1,17 +1,31 @@
+body{
+    background-color: #010f35;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: aliceblue;
+}
+
 
 #name{
     
-    font-family:'Hahmlet', serif;
+    font-family:'Fugaz One', cursive;
     justify-content: center;
-    color: #426bf5;
-    font-size: 70pt;
+    color: aliceblue;
+    
 
 }
+h1{
+    font-size: 50pt;
+}
 
+    
 /*avatar photo of me*/
 #photoMe {
  display: flex;
  justify-content: center;  
+ margin: 20px 20px;
+ border-radius: 20px ;
+
 }
 
 
@@ -63,7 +77,7 @@ h5{ color: black;}
 
 #footer{
     text-align: center;
-    
+    color: aliceblue;
 }
 
 a{
@@ -76,17 +90,17 @@ a{
 
 
     #aboutme {
-        background-color:  #C06C84;
+        background-color:  #DD517F;
     }
 
     #mywork{
 
-        background-color: #6C5B7B; 
+        background-color: #E68E36 ; 
     
     }
     
     #contactme {
-        background-color: #F8B195;
+        background-color: #556DC8;
     }
     
 }
