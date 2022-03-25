@@ -1,11 +1,45 @@
 # Portfolio
 
-This is online portfolio with three sections. The three sections are about, my works, and how to contact.
-The projects section contains 3 of my most recent projects. This website changes colors when the screen size increases or decreases. 
-When you click on the menu links it takes you directly to the section you selected. Plan on improving it as my skills set expands. 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+        
+## Description
+This is my  online portfolio with three sections. It has an about me, my work, and how to contact sections. The projects section contains 3 of my most recent projects. When you click on the menu links it takes you directly to the section you selected. Still in progress. 
 
- https://eli-coding.github.io/my-portfolio/
+## Deployed Link
+https://eli-coding.github.io/my-portfolio/
+
+## Table of Contents
+* [Description](#description)
+* [Usage](#usage)
+* [Licenses](#licenses)
+* [Questions](#questions)
 
 
+## Usage
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/80432031/160046202-29e7dde6-d604-4eb2-a548-f5070726bccc.png)
+
+
+## Licenses
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+## Questions
+ 
+Git Hub username:
+eli-coding
+
+To reach me please email me at cyoannie@yahoo.com.  
+
+
+
+
+
+
+
+ 
+
+
+
