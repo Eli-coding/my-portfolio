@@ -18,11 +18,15 @@ https://eli-coding.github.io/my-portfolio/
 ## Usage
 
 ![Screenshot (121)](https://user-images.githubusercontent.com/80432031/160046202-29e7dde6-d604-4eb2-a548-f5070726bccc.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/80432031/160047850-a82b565b-dfb5-4126-9538-41b5435cf8a8.png)
+
+
 
 
 ## Licenses
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 
