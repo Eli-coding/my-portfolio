@@ -20,11 +20,10 @@ h1{
 
     
 /*avatar photo of me*/
-#photoMe {
- display: flex;  
- margin: 20px 20px;
- border-radius: 20px ;
+#photoMe img {
 
+ justify-content:center;
+padding-bottom:  25px;
 }
 
 
@@ -35,7 +34,7 @@ h1{
     font-family:monospace;
     color: rgb(255, 255, 255);
     font-family:'Hahmlet', serif;
-    padding: 40px;
+    padding: 50px;
     
 }
   
@@ -48,7 +47,7 @@ h1{
     flex-wrap: wrap;
     text-align: left;
     position: relative;
-    padding: 40px;
+    padding: 50px;
 
     
   
@@ -59,7 +58,7 @@ h5{ color: black;}
 
 #contactme{
     
-    padding: 40px;
+    padding: 50px;
    
 }
 
