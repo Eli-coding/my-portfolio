@@ -7,5 +7,5 @@ When you click on the menu links it takes you directly to the section you select
  https://eli-coding.github.io/my-portfolio/
 
 
-![Screenshot (111)](https://user-images.githubusercontent.com/80432031/151683869-869f3946-5d6b-4c23-9f05-5719c36c80de.png)
-![Screenshot (112)](https://user-images.githubusercontent.com/80432031/151683864-4d653d6a-44d4-444a-aae3-e0803692c32c.png)
+
+![Screenshot (121)](https://user-images.githubusercontent.com/80432031/160046202-29e7dde6-d604-4eb2-a548-f5070726bccc.png)
